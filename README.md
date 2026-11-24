@@ -89,11 +89,14 @@ Muchos viveros entregan árboles y plantas en donación y registran cada entrega
 - [ ] Requisitos y modelo de datos
 - [ ] Prototipo de pantallas
 - [ ] Desarrollo
+- [ ] Pruebas manuales y automatizadas
+- [ ] Pruebas con un vivero real
+- [ ] Despliegue
 
 ---
 
 <div align="center">
 
-Hecho con 💚 por **[María José Ospina Samboni](https://github.com/naksu707)**
+Hecho por 💚 **[Maria Jose Ospina](https://github.com/naksu707)** 💚 y **[Valentina Herrera](https://github.com/Herre-3)**
 
 </div>
