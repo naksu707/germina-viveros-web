@@ -97,6 +97,6 @@ Muchos viveros entregan árboles y plantas en donación y registran cada entrega
 
 <div align="center">
 
-Hecho por 💚 **[Maria Jose Ospina](https://github.com/naksu707)** 💚 y **[Valentina Herrera](https://github.com/Herre-3)**
+Hecho por 💚 **[Maria Jose Ospina](https://github.com/naksu707)** 💚 **[Valentina Herrera](https://github.com/Herre-3)** 💚
 
 </div>
