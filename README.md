@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 Germina
+# Germina
 ### Software de gestión para viveros: donaciones, inventario y seguimiento a beneficiarios
 
 <p>
